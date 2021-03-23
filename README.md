@@ -1,6 +1,7 @@
 # aws를 이용한 웹 호스팅
 ### 1. 설계 환경
-![image](https://user-images.githubusercontent.com/49589578/112089035-3a289d80-8bd4-11eb-8652-5d341fd338c4.png)
+![설계환경](https://user-images.githubusercontent.com/49589578/112089219-8e338200-8bd4-11eb-8fef-89caffd2e4b1.JPG)
+
 
 ### 2. EC2
 ![ec2](https://user-images.githubusercontent.com/49589578/112089108-5af0f300-8bd4-11eb-8ce2-c5c51d0bab9b.JPG)
